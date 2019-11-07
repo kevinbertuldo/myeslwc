@@ -15,6 +15,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>marketServices</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>reservationManagerController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -58,6 +62,10 @@
     </layoutAssignments>
     <tabVisibilities>
         <tab>Reservation_Manager</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Spaces_Designer</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
